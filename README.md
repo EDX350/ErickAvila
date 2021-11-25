@@ -1,0 +1,2 @@
+# ErickAvila
+Pytesseract practica
